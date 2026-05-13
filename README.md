@@ -165,7 +165,3 @@ They are ideal when:
 - False positive rate analysis
 
 ---
-
-## Author
-
-Implemented as a systems/data structures project to study probabilistic data structures and performance optimization.
